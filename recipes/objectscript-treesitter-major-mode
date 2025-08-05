@@ -2,4 +2,4 @@
 
 (objectscript-treesitter-major-mode
  :fetcher github
- :repo "your-username/your-repository-name")
+ :repo "intersystems/objectscript-treesitter-major-mode")
