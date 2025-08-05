@@ -1,0 +1,5 @@
+;; recipes/objectscript-treesitter-major-mode
+
+(objectscript-treesitter-major-mode
+ :fetcher github
+ :repo "your-username/your-repository-name")
